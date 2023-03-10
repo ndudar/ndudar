@@ -5,11 +5,19 @@
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/Node.js">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40"/>
+</a>
+
+<a href="https://expressjs.com/">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+</a>
+
+<a href="https://www.postgresql.org/">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgres" width="40" height="40"/>
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
 </a>
 
 <!--
