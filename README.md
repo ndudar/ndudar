@@ -1,5 +1,9 @@
 ### Hello World! 👋 I'm Natalie
 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="html5" width="40" height="40"/>
+</a>
+
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
 </a>
