@@ -1,8 +1,6 @@
 ### Hello World! 👋 I'm Natalie
 
-<a href="https://www.w3.org/html/%22%3E
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
-/>
 
 <!--
 **ndudar/ndudar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
