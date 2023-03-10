@@ -13,11 +13,47 @@
 </a>
 
 <a href="https://www.postgresql.org/">
- <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgres" width="40" height="40"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+</a>
+
+<a href="https://sequelize.org/">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" alt="sequelize" width="40" height="40"/>
+</a>
+
+<a href="https://reactjs.org/">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+</a> 
+
+<a href="https://react-redux.js.org/">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux " width="40" height="40"/>
+</a>
+
+<a href="https://getbootstrap.com/">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
+</a>
+
+<a href="https://mui.com/">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="materialUI" width="40" height="40"/>
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+</a>
+
+<a href="https://code.visualstudio.com/">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+</a>
+
+<a href="https://webpack.js.org/">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/>
+</a>
+
+<a href="https://git-scm.com/">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
 </a>
 
 <!--
