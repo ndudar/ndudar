@@ -1,6 +1,6 @@
 ### Hello World! 👋 I'm Natalie
 
-- 🔭 I’m currently working on a PokeDex front-end app to showcase some of the helpful features of React Router.
+🔭 I’m currently working on a PokeDex front-end app to showcase some of the helpful features of React Router.
 
 [Repo here.](https://github.com/ndudar/PokeDex)
 
