@@ -1,11 +1,11 @@
 ### Hello World! 👋 I'm Natalie
 
 - 🔭 Currently Making: a PokeDex front-end app to showcase some of the helpful features of React Router. 
-  - **Using:** JavaScript, React, Vite, CSS, HTML, Pokemon API
+  - **Using:** JavaScript, React, React Router, Vite, CSS, HTML, Pokemon API
   - [Repo here.](https://github.com/ndudar/PokeDex)
 
 
-- 🌱 Currently Learning: how to work with outside APIs
+- 🌱 Currently Learning: I'm getting more practice with third-party APIs and incorporating some of the interesting features of React Router into my applications. 
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
