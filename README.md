@@ -5,7 +5,10 @@
   - [Repo here.](https://github.com/ndudar/PokeDex)
 
 
-- 🌱 Currently Learning: I'm getting more practice with third-party APIs and incorporating some of the interesting features of React Router into my applications. 
+- 🌱 Currently Learning / Practicing: 
+  - Using third-party APIs  
+  - Incorporating interesting features of React Router into my applications
+  - Bootstrap
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
