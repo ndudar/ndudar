@@ -8,10 +8,8 @@
 - 🌱 Currently Learning / Practicing: 
   - Using third-party APIs  
   - Incorporating interesting features of React Router into my applications
-  - Bootstrap
-  - jQuery
-  - Sass
-  - Playwright
+  - Class-Based React Components
+  - Harvard CS50 Course
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
