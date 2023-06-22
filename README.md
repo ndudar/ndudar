@@ -11,6 +11,7 @@
   - Class-Based React Components
   - Harvard CS50 Course
   - C
+  - Discrete Mathematics
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
