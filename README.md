@@ -10,6 +10,7 @@
   - AWS
   - PHP
   - Wordpress
+  - Nivo
   - Harvard CS50 Course
   - C
   - Discrete Mathematics
